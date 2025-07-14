@@ -92,3 +92,11 @@ Test reports generated with Maven Cucumber can be found at:
 target/cucumber-report.html
 ```
 
+## Extent Report
+
+Test reports generated with Maven Extent Reports can be found at:
+
+```plaintext
+target/extent-report.html
+```
+
